@@ -19,11 +19,7 @@ Keyboard	Allows exiting via keypress
 Python (3.8+)	Core programming language
 
 ⚙️ Installation:
-1️⃣ Clone the Repository
--->  git clone https://github.com/Madhav7871/hand-gesture-car-controller.git
--->  cd hand-gesture-car-controller
-2️⃣ Install Dependencies
--->  pip install opencv-python mediapipe pydirectinput keyboard
+--> Install Dependencies: "pip install opencv-python mediapipe pydirectinput keyboard".
 
 🎮 Usage:
 1️⃣ Connect a Webcam
